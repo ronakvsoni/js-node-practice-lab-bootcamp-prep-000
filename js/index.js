@@ -7,4 +7,4 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(presint(height) + 1 )
+console.log(present(height) + 1 )
